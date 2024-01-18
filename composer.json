@@ -1,5 +1,5 @@
 {
-    "name": "alexkag/eloquent-meta",
+    "name": "alexkag/electricjones-eloquent-meta",
     "description": "Attach meta data to Eloquent models",
     "keywords": ["eloquent", "laravel", "meta"],
     "homepage": "https://github.com/alexkag/phoenix-eloquent-meta",
